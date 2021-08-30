@@ -1,0 +1,12 @@
+
+weatherman requires curl and bash version 3 or greater.
+
+To install it, simply copy weatherman to your desired location and make it executable:
+
+    $ cp weatherman /usr/bin
+    $ chmod a+x /usr/bin/weatherman
+
+To date, weatherman has only been tested on GNU/Linux and may not work on all platforms.
+
+Please send bug reports to <subrosa at darkhorse dot nu>.  Thank you.
+
